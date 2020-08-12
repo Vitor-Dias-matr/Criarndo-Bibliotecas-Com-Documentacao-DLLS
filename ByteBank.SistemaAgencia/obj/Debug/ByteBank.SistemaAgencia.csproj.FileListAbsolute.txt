@@ -1,0 +1,11 @@
+C:\Users\vitor\OneDrive\Documentos\Alura\CSharp-Bibliotecas\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe.config
+C:\Users\vitor\OneDrive\Documentos\Alura\CSharp-Bibliotecas\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe
+C:\Users\vitor\OneDrive\Documentos\Alura\CSharp-Bibliotecas\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.pdb
+C:\Users\vitor\OneDrive\Documentos\Alura\CSharp-Bibliotecas\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.dll
+C:\Users\vitor\OneDrive\Documentos\Alura\CSharp-Bibliotecas\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\vitor\OneDrive\Documentos\Alura\CSharp-Bibliotecas\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Documentos\Alura\CSharp-Bibliotecas\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Documentos\Alura\CSharp-Bibliotecas\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CopyComplete
+C:\Users\vitor\OneDrive\Documentos\Alura\CSharp-Bibliotecas\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.exe
+C:\Users\vitor\OneDrive\Documentos\Alura\CSharp-Bibliotecas\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.pdb
+C:\Users\vitor\OneDrive\Documentos\Alura\CSharp-Bibliotecas\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.xml

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ByteBank.Modelos</name>
+    </assembly>
+    <members>
+        <member name="M:ByteBank.Modelos.ContaCorrente.#ctor(System.Int32,System.Int32)">
+            <summary>
+            Define uma Conta Corrente do banco ByteBank.
+            </summary>
+            <param name="agencia">Representa o valor da proprieddae <see cref="P:ByteBank.Modelos.ContaCorrente.Agencia" /> e deve possuir um valor maior que zero.</param>
+            <param name="numero">Representa o valor da proprieddae <see cref="P:ByteBank.Modelos.ContaCorrente.Numero" /> e deve possuir um valor maior que zero.</param>
+        </member>
+        <member name="M:ByteBank.Modelos.ContaCorrente.Sacar(System.Double)">
+            <summary>
+            Metodo Sacar, diminui valor do saldo.
+            </summary>
+            <exception cref="T:System.ArgumentException">o valor para saque deve ser maior que zero.</exception>
+            <exception cref="T:ByteBank.Modelos.SaldoInsuficienteException">O <see cref="P:ByteBank.Modelos.ContaCorrente.Saldo"/> deve ser maior que o <paramref name="valor"/> para o saque</exception>
+            <param name="valor"></param>
+        </member>
+        <member name="M:ByteBank.Modelos.ContaCorrente.Depositar(System.Double)">
+            <summary>
+            
+            </summary>
+            <param name="valor"></param>
+        </member>
+        <member name="M:ByteBank.Modelos.ContaCorrente.Transferir(System.Double,ByteBank.Modelos.ContaCorrente)">
+            <summary>
+            
+            </summary>
+            <param name="valor"></param>
+            <param name="contaDestino"></param>
+        </member>
+    </members>
+</doc>
